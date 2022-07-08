@@ -1,0 +1,59 @@
+.unloading{
+  display: none;
+}
+.snail img{
+ width: 100%;
+}
+.avator img{
+  width: 50%;
+}
+.snail{
+  width:20%;
+  margin: auto;
+}
+.card{
+width: 50%;
+display: flex;
+margin: auto;
+background-color: rgb(112 255 242);
+border: 1px solid black;
+align-items: center;
+justify-content: flex-start;
+margin-bottom: -1%;
+}
+.heading{
+  text-align: center;
+  background-color: #b50000;
+  width: 45%;
+  margin: auto;
+  color: white;
+  margin-top: 5%;
+  padding:2% ;
+}
+
+.btn{
+  padding: 1%;
+  font-size: 20px;
+  width: 50%;
+  margin-left: 25%;
+  margin-top:1% ;
+  margin-bottom: 1%;
+  background-color: #29d980;
+  border-radius: 10px;
+}
+.avator{
+  width: 50%;
+}
+.App {
+  text-align: center;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  font-size:80%;
+  margin-left: -20%;
+}
+
+
+
+

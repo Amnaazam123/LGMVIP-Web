@@ -1,0 +1,51 @@
+.btn{
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 40px;
+    padding: 5%;
+    margin: auto;
+    margin-bottom: 3%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: oblique;
+    box-shadow: 0.5rem 0.5rem 1rem rgba(71, 58, 63, 0.652);
+    border-radius: 10px;
+}
+.display{
+    background-color:#508550;
+    margin: auto;
+    height: 65px;
+    font-size: 40px;
+    padding: 2%;
+    box-sizing:content-box;
+    overflow-x:scroll;
+    overflow-y: hidden;
+    color: white;
+    font-family: 'Nova Cut', cursive;
+    border-radius: 13px;
+    padding-left: 4%;
+    border: 15px solid black;
+}
+
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5%;
+}
+.calculator{
+    width: 27%;
+    margin: auto;
+    background-color: #000000;
+    box-shadow: 0.5rem 0.5rem 1rem rgba(71, 58, 63, 0.652);
+    border-radius: 3%;
+    border: 1px solid black;
+    margin-top: -2%;
+}
+h1{
+    font-family: 'Creepster', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+    letter-spacing: 5px;
+}
